@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · deepali-shrivastav</sub></p>
 <h1>Deepali Shrivastav</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full-stack engineer & Devops </h2>
 <p>Building useful software and sharing the work in public.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
